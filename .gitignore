@@ -1,0 +1,8 @@
+﻿# Binarios y compilados (van completos en el RAR de la seccion Releases)
+/NotaINE/
+/NotaINE_distribuir.zip
+/build/
+/dist/
+__pycache__/
+*.pyc
+mpl-cache/

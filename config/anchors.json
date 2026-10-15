@@ -1,0 +1,38 @@
+{
+  "INE_MODERNA": {
+    "nombre": ["NOMBRE"],
+    "domicilio": ["DOMICILIO"],
+    "clave_elector": ["CLAVE DE ELECTOR", "CLAVE ELECTOR"],
+    "curp": ["CURP"],
+    "fecha_nacimiento": ["FECHA DE NACIMIENTO", "FECHA NACIMIENTO"],
+    "seccion": ["SECCIÓN", "SECCION"],
+    "anio_registro": ["AÑO DE REGISTRO", "ANO DE REGISTRO"],
+    "emision": ["EMISIÓN", "EMISION"],
+    "vigencia": ["VIGENCIA"],
+    "sexo": ["SEXO"]
+  },
+  "IFE_INTERMEDIA": {
+    "nombre": ["NOMBRE"],
+    "domicilio": ["DOMICILIO"],
+    "clave_elector": ["CLAVE DE ELECTOR", "CLAVE ELECTOR", "FOLIO"],
+    "curp": ["CURP"],
+    "fecha_nacimiento": ["FECHA DE NACIMIENTO", "FECHA NACIMIENTO"],
+    "seccion": ["SECCIÓN", "SECCION"],
+    "anio_registro": ["AÑO DE REGISTRO", "ANO DE REGISTRO"],
+    "emision": ["EMISIÓN", "EMISION"],
+    "vigencia": ["VIGENCIA"],
+    "sexo": ["SEXO"]
+  },
+  "IFE_ANTIGUA": {
+    "nombre": ["NOMBRE"],
+    "domicilio": ["DOMICILIO"],
+    "clave_elector": ["CLAVE DE ELECTOR", "CLAVE ELECTOR", "FOLIO"],
+    "curp": ["CURP"],
+    "fecha_nacimiento": ["FECHA DE NACIMIENTO", "FECHA NACIMIENTO"],
+    "seccion": ["SECCIÓN", "SECCION"],
+    "anio_registro": ["AÑO DE REGISTRO", "ANO DE REGISTRO"],
+    "emision": ["EMISIÓN", "EMISION"],
+    "vigencia": ["VIGENCIA"],
+    "sexo": ["SEXO"]
+  }
+}
